@@ -58,7 +58,7 @@ export default ({ data }: PageProps) => {
   return (
     <Layout>
       <Wrapper fullWidth={true}>
-        <Helmet title={`Homepage | ${config.siteTitle}`} />
+        <Helmet title={`${config.siteTitle}`} />
         <Homepage>
           <GridRow background={true}>
             <HomepageContent center={true}>
