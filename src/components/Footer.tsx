@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import { split } from 'lodash';
 
 const FooterWrapper = styled.footer`
-  text-align: center;
-  padding: 3rem 0;
+  text-align: right;
+  padding: 2rem 3rem 2rem 0rem;
+  font-size: 0.75rem;
   span {
-    font-size: 0.75rem;
+    font-size: 0.5rem;
   }
 `;
 
@@ -31,12 +31,8 @@ const Footer = () => {
   const render = (data: DataProps) => {
     return (
       <FooterWrapper>
-        &copy; {split(data.site.buildTime, '.')[2]} by Majid Hajian. All rights reserved. <br />{' '}
-        <a href="https://github.com/mhadaily/gatsby-starter-typescirpt-power-blog">
-          GitHub Repository{' '}
-        </a>{' '}
         <br />
-        <span>Last build: {data.site.buildTime}</span>{' '}
+        Made With ❤️ by Masood Mohammad{' '}
       </FooterWrapper>
     );
   };
