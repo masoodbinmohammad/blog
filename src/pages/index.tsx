@@ -51,6 +51,10 @@ const GridRow: any = styled.div`
 const HomepageContent = styled.div<{ center?: boolean }>`
   max-width: 30rem;
   text-align: ${(props) => (props.center ? 'center' : 'left')};
+  img{
+    border-radius: 70px;
+    opacity: 0.7;
+  }
 `;
 
 export default ({ data }: PageProps) => {
