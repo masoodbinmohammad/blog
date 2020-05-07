@@ -6,7 +6,7 @@ export const Button = styled.button<{ big: boolean }>`
   border: none;
   display: inline-flex;
   align-items: center;
-  margin: 0 0.5rem;
+  margin: 0.3rem 0.5rem;
   border-radius: ${(props) => (props.big ? '1.5rem' : '1rem')};
   font-size: ${(props) => (props.big ? '1.2rem' : '1rem')};
   color: white;

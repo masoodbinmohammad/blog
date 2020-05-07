@@ -2,14 +2,14 @@
 date: "2020-05-05"
 title: "How I Built My Blog Using Gatsby and Netlify"
 category: "Coding"
-tags: ['Technology', 'Coding']
+tags: ['React', 'Coding']
 banner: "/assets/bg/4.jpg"
 ---
-Hello Dev Community. Welcome to my blog and this is my first blog post that i am starting write. Let me know if you have any feedback.
+Hello 👋. Today i am excited to give my insights on how i built my blog and also share you some of the resources if i found it so helpful.
 
-I always wanted to have my own blog website where i can write my views, technical challenges i often come across during my day to day work. Hence here i am. Wow i am excited.
+Lets jump into it stright away then.🏃‍♂️
 
-Now, coming to the topic, while i was in search of some of the templates to start off with my blog site. I found this beautiful gatbsy starter template by Majid Hajian which was using typescript language. Coming from .NET background i always like working with typescript as it is statically typed . Hence i decided to go with the same. You can find this starter <a href="`https://github.com/mhadaily/gatsby-starter-typescript-power-blog"> here.</a>
+While i was in search of some of the templates to start off with my blog site. I found this beautiful gatbsy starter template by Majid Hajian which was using typescript language. Coming from a .NET background i always like working with typescript as it is statically typed and it brings familiar OOP constructs to JavaScript . Hence i have decided to go with the same. You can find the starter template <a href="`https://github.com/mhadaily/gatsby-starter-typescript-power-blog"> here.</a>
 
 ### What is Gatsby ? 
 
@@ -35,3 +35,5 @@ The best part about Netlify is that it’s free. If you’re in a large team or 
 Gatsby and Netlify are the easiest way to build and publish a static website.
 
 If you would like an example of how to build a blog using Gatsby, the code for my blog is available on .<a href="https://github.com/masoodbinmohammad/blog">GitHub</a>
+
+I hope this post helped you. If it did, help othes by spreading the word.
