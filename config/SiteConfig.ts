@@ -32,5 +32,6 @@ export default {
 
   //
   Google_Tag_Manager_ID: 'GTM-5GBNKV4',
+  Google_Analytics_ID:'UA-164005605-2',
   POST_PER_PAGE: 4,
 };
