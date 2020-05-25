@@ -8,7 +8,7 @@ banner: "/assets/bg/2.jpg"
 
 It is always a great feeling for a developer when the particular feature or an API implementation which he had been working on from so long and eventually that went live and its in production environment.
 
-But have you ever wondered why you keep getting a random requests from a random IPs once your API or an application reaches to prouction ? Have you been in these situations before ? If yes I hope this article might help you solving those.
+But have you ever wondered why you keep getting a random requests from a random IPs once your API or an application reaches to production ? Have you been in these situations before ? If yes I hope this article might help you solving those.
 
 There are many different solutions out there online to mitigate these kind of API attacks. However in this post i will be sharing you my approach and how did it solve the problem.
 
