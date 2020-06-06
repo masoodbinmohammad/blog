@@ -51,7 +51,7 @@ const GridRow: any = styled.div`
 const HomepageContent = styled.div<{ center?: boolean }>`
   max-width: 30rem;
   text-align: ${(props) => (props.center ? 'center' : 'left')};
-  img{
+  img {
     border-radius: 70px;
     opacity: 0.7;
   }
@@ -104,8 +104,8 @@ export default ({ data }: PageProps) => {
             <HomepageContent>
               <h2>About Me</h2>
               <p>
-                I love coding, new technologies & exploring. I'm mostly interested in Full Stack Web Development.
-                I love to work with ASP.NET Core, Node.js, Angular & React. 
+                I love coding, new technologies & exploring. I'm mostly interested in Full Stack Web
+                Development. I love to work with ASP.NET Core, Node.js, Angular & React.
               </p>
               <hr />
               <h2>Latest Blog</h2>

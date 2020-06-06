@@ -8,8 +8,8 @@ export const Content = styled.div`
   background-color: ${(props) => props.theme.colors.bg};
   z-index: 9000;
   margin-top: -4rem;
-  a{
-      font-weight: 900;
+  a {
+    font-weight: 900;
   }
   form {
     p {

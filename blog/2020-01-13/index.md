@@ -1,9 +1,9 @@
 ---
-date: "2020-01-13"
-title: "Why is it Important to Protect Your API from Attacks and How?"
-category: "Coding"
+date: '2020-01-13'
+title: 'Why is it Important to Protect Your API from Attacks and How?'
+category: 'Technology'
 tags: ['Technology', 'AWS']
-banner: "/assets/bg/2.jpg"
+banner: '/assets/bg/2.jpg'
 ---
 
 It is always a great feeling for a developer when the particular feature or an API implementation which he had been working on from so long and eventually that went live and its in production environment.
@@ -14,13 +14,12 @@ There are many different solutions out there online to mitigate these kind of AP
 
 So we were working on an API for one of our products lately and we have had a success in launching it to production environment. The important thing to notice here is this the API was hosted in AWS EBS volume. For more info you can find the aws documentation <a href="https://docs.aws.amazon.com/elastic-beanstalk/index.html">here.</a>
 
-Now here is thing soon after it went live, after the couple of days we started to recieve huge volume of requests which indeed was not at all valid ones. This was terrifying because of the fact that these requests use  to hit our API resulting to load on the server reaching to its threshold values and it was beyond our comprehension.
+Now here is thing soon after it went live, after the couple of days we started to recieve huge volume of requests which indeed was not at all valid ones. This was terrifying because of the fact that these requests use to hit our API resulting to load on the server reaching to its threshold values and it was beyond our comprehension.
 
 On doing extensive research , we eventually came to know that these are the situations where in attackers find some of the subdomains using this method `Subdomain Enumeraion`, collect all the information and start the `Directory Bruteforcing`, `DDoS` attacks and many more.
 
-As i said earlier,  there are many different solution approaches to this problem and we have finally agreed to go with `AWS WAF (Web Application Firewall)`. In my openiion this is one of the coolest and yet more powerful  services that AWS has provided and i am no expert but i would definitely recommend you to have look into this service before you go with other option. I repeat go with this approach if you have hosted your application or your API in AWS.
+As i said earlier, there are many different solution approaches to this problem and we have finally agreed to go with `AWS WAF (Web Application Firewall)`. In my openiion this is one of the coolest and yet more powerful services that AWS has provided and i am no expert but i would definitely recommend you to have look into this service before you go with other option. I repeat go with this approach if you have hosted your application or your API in AWS.
 
 There are vast varieties of option that this WAF provides and you can give it a shot and follow this <a href="https://docs.aws.amazon.com/waf/">official documentation </a>
 
-I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word  😊 .
-
+I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word 😊 .
