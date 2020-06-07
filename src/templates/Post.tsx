@@ -20,6 +20,12 @@ import Post from '../models/Post';
 
 const PostContent = styled.div`
   margin-top: 4rem;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
 `;
 
 interface Props {

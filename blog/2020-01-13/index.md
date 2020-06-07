@@ -22,4 +22,6 @@ As i said earlier, there are many different solution approaches to this problem 
 
 There are vast varieties of option that this WAF provides and you can give it a shot and follow this <a href="https://docs.aws.amazon.com/waf/">official documentation </a>
 
-I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word 😊 .
+If you are interested to know more about how this is actually implemented. Considrrt visiting my this blog <a href="/blog/protecting-your-site-using-aws-waf-web-application-firewall"> here</a> where i have given steps to configure this service.
+
+> I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word 😊 .

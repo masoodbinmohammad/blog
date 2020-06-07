@@ -48,4 +48,4 @@ And finally, you can always do a dry run before actually deploying to see the ou
 
 `ngh --dry-run`.
 
-I hope this post helped you. If it did, help othes by spreading the word.
+> I hope this post helped you. If it did, help others by spreading the word.😊

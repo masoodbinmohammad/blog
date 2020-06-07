@@ -102,4 +102,4 @@ Hence in our if item is null then right side of the code going to be printed.
 
 Thats it . This is how you can easily use these two operators in combination to make your code look simple and clean.
 
-> I hope this article found useful for you. If it did please help others spreading the word.
+> I hope this article found useful for you. If it did please help others spreading the word.😊
