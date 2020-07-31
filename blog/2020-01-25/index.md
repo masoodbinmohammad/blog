@@ -1,8 +1,8 @@
 ---
 date: '2020-01-25'
 title: 'Protecting your site using AWS WAF (Web Application Firewall) '
-category: 'Technology'
-tags: ['Technology', 'AWS']
+category: 'DevOps'
+tags: ['AWS']
 banner: '/assets/bg/5.jpg'
 ---
 
@@ -84,4 +84,5 @@ By default WAF uses cloudwatch to monitor the logs . But if you are not satisfie
 
 Thats it.!!! Review what you have configured and make sure that all are good to go.
 
-> I Hope this article has helped you in what you are trying to achievre. If it did, kindly help others spreading the word 😊. You can always hit me up for any feedbacks or queries. Find my details on contact section.
+> I hope you found this article useful. If it did please help others spreading the word.😊
+> For any suggestions or feeedbacks 👉 <a href="/contact"> Contact</a>

@@ -36,4 +36,5 @@ Gatsby and Netlify are the easiest way to build and publish a static website.
 
 If you would like an example of how to build a blog using Gatsby, the code for my blog is available on .<a href="https://github.com/masoodbinmohammad/blog">GitHub</a>
 
-> I hope this post helped you. If it did, help others by spreading the word.😊
+> I hope you found this article useful. If it did please help others spreading the word.😊
+> For any suggestions or feeedbacks 👉 <a href="/contact"> Contact</a>

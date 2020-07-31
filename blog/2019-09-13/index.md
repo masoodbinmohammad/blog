@@ -6,11 +6,11 @@ tags: ['C#', '.NET']
 banner: '/assets/bg/1.jpg'
 ---
 
-# Introduction
+### Introduction
 
 In this article i am going share one of the useful tips for writing a clean code which i have learnt in C#.
 
-# Example
+### Example
 
 For a demo purpose we wil take employees in an organisation as reference and lets create the Employees object which has 3 properties namely EmployeeID, Name and Salary.
 

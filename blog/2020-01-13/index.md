@@ -1,8 +1,8 @@
 ---
 date: '2020-01-13'
 title: 'Why is it Important to Protect Your API from Attacks and How?'
-category: 'Technology'
-tags: ['Technology', 'AWS']
+category: 'InfoSec'
+tags: ['AWS']
 banner: '/assets/bg/2.jpg'
 ---
 
@@ -24,4 +24,4 @@ There are vast varieties of option that this WAF provides and you can give it a 
 
 If you are interested to know more about how this is actually implemented. Considrrt visiting my this blog <a href="/blog/protecting-your-site-using-aws-waf-web-application-firewall"> here</a> where i have given steps to configure this service.
 
-> I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word 😊 .
+> I hope this article atleast provided some insight on how and why we have to protect API from these kind of attack scenarios and if it did help , please help others by spreading the word.😊 For any suggestions or feeedbacks 👉 <a href="/contact"> Contact</a>
