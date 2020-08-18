@@ -12,6 +12,8 @@ const Homepage = styled.main`
   display: flex;
   height: 100vh;
   flex-direction: row;
+  box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.2);
+  animation: 1.5s ease-in-out 0.2s both stripAnimation;
   @media ${media.tablet} {
     height: 100%;
     flex-direction: column;
@@ -27,6 +29,7 @@ const GridRow: any = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.4);
   background: ${(props: any) =>
     props.background
       ? `linear-gradient(
@@ -50,6 +53,7 @@ const GridRow: any = styled.div`
 
 const HomepageContent = styled.div<{ center?: boolean }>`
   max-width: 30rem;
+  animation: 1.5s ease-in-out 0.6s both fadeIn;
   text-align: ${(props) => (props.center ? 'center' : 'left')};
   img {
     border-radius: 70px;
