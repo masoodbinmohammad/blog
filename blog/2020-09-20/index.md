@@ -14,7 +14,7 @@ In this post I am going to share some of the useful tips and tricks while findin
 
 Google Dork is a special string for finding any type of results from any specified website or from the whole Internet with the help of Google Search Engine. These strings are built with the advanced search operators supported by Google Search Engine. It is also regarded as illegal google hacking activity which hackers often uses for purposes such as cyber theft.
 
-I know it is quite intimidating when you hear the word "Hacking". Not to worry because in this post I am going to share as a developer how you can make the best use of it without even crossing that line of a Hacker.
+I know it is quite intimidating when you hear the word "Hacking". Not to worry because in this post I am going to share as a developer how you can make the best use of it without even crossing that line.
 
 And yes, these could be useful to everyone irrespective of the field you are in.
 
@@ -53,9 +53,9 @@ Many a times there are chances that you get annoyed by the results from particul
 
 You could also filter out multiple sites extending it with the help of comma. Ex: `-site:naukri.com,indeed.com`. And these could be applied to any dorks.
 
-By now you might have got an idea of how useful dorks could be in your day to day life and these are just beginning. There are also other lists of dorks are available that we could use perform much more than what I have explained above using the simple search strings.
+By now you might have got an idea of how useful dorks could be in your day to day life and these are just the beginning. There are also other lists of dorks are available that we could use perform much more than what I have explained above using the simple search strings.
 
-Here I have listed some commonly used dorks on the internet.
+Here I have listed some of the commonly used dorks on the internet.
 
 - `filetype:` used to search for any kind of file extensions, for example, if you want to search for jpg files you can use: filetype: jpg
 
@@ -87,10 +87,21 @@ Here I have listed some commonly used dorks on the internet.
 
 - `""` Use quotes to search for an exact phrase. searching a phrase in quotes will yield only pages with the same words in the same order as what’s in the quotes. It’s one of the most vital search tips, especially useful if you’re trying to find results containing a specific a phrase.
 
+## Conclusion
+
+Google is one of the most important search engines in the world. As we all know, it has the ability to index everything unless we explicitly deny it.
+Before I wrap up my post I would like to end with a suggestion. Think twice before you share any of your information online. These could be easily accessible by anyone.
+
+That's it.
+
+> I hope this post has given you an idea of what all google dorks is about and how you could make the best use of it.
+> If it did please help others spreading the word.😊
+> For any suggestions or feeedbacks 👉 <a href="/contact"> Contact</a>
+
 ## Desclaimer:
 
-> - This post was written for educational purposes only.
-> - The author can not be held responsible for damages caused by the use of these resources.
-> - You will not misuse the information to gain unauthorized access.
-> - This information shall only be used to expand knowledge and not for causing malicious or damaging attacks.
-> - Just remember, Performing any hacks without written permission is illegal.
+> - **This post was written for educational purposes only.**
+> - **The author can not be held responsible for damages caused by the use of these resources.**
+> - **You will not misuse the information to gain unauthorized access.**
+> - **This information shall only be used to expand knowledge and not for causing malicious or damaging attacks.**
+> - **Just remember, Performing any hacks without written permission is illegal.**
