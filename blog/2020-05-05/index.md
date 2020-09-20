@@ -1,7 +1,7 @@
 ---
 date: '2020-05-05'
 title: 'How I Built My Blog Using Gatsby and Netlify'
-category: 'Coding'
+category: 'Front-End'
 tags: ['React', 'Coding']
 banner: '/assets/bg/4.jpg'
 ---

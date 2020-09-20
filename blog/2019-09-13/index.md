@@ -1,7 +1,7 @@
 ---
 date: '2019-09-13'
 title: 'Writing Clean Code Using Null Conditional Operator and Null Coalescing Operator'
-category: 'Coding'
+category: 'Back-End'
 tags: ['C#', '.NET']
 banner: '/assets/bg/1.jpg'
 ---

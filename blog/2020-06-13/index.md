@@ -1,7 +1,7 @@
 ---
 date: '2020-06-18'
 title: 'Getting started with Git and GitHub'
-category: 'Coding'
+category: 'Technology'
 tags: ['GitHub', 'Git']
 banner: '/assets/bg/6.jpg'
 ---

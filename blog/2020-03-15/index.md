@@ -1,7 +1,7 @@
 ---
 date: '2020-03-15'
 title: 'Hosting Angular App to GitHub Pages for Free'
-category: 'Coding'
+category: 'Front-End'
 tags: ['Angular', 'Coding']
 banner: '/assets/bg/3.jpg'
 ---
