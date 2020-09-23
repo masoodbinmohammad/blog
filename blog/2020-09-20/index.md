@@ -89,10 +89,7 @@ Here I have listed some of the commonly used dorks on the internet.
 
 ## Conclusion
 
-Google is one of the most important search engines in the world. As we all know, it has the ability to index everything unless we explicitly deny it.
-Before I wrap up my post I would like to end with a suggestion. Think twice before you share any of your information online. These could be easily accessible by anyone.
-
-That's it.
+This does not end here. If you are interested in exploring more about it, Search Google Dorks filetype:pdf and you will find lot of information over it. Good luck.🤝
 
 > I hope this post has given you an idea of what all google dorks is about and how you could make the best use of it.
 > If it did please help others spreading the word.😊
